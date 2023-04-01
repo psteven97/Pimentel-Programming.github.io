@@ -92,7 +92,7 @@ blockquote p {
 /* FOOTER STYLES
 -----------------------------------------*/
 footer {
-  background: rgba(255, 255, 255, 0.8);
+  background: #090000;
   text-align: center;
   padding: 1px;
   text-transform: lowercase;
